@@ -16,7 +16,7 @@ Container - Running process of and image
 
 ` docker run c37029f94553`
 
-!!! To port forwarding
+!!! For port forwarding
 
 ` docker run -p 5000:8080 c37029f94553`
 
